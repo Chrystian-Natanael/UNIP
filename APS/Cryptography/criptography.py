@@ -224,3 +224,4 @@ def ft_call():
             print("\033[91m\033[1mOpção inválida. Tente novamente.\033[0m\n")
 
 ft_call()
+##oi
